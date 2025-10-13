@@ -5,7 +5,16 @@ const fName = "Angela";
 const lName = "Yu";
 const num = 7;
 
-ReactDOM.render
+ReactDOM.render(
+  <div>
+    <h1>Hello {fName}!</h1>
+    <p>Your lucky number is {3 + 4}</p>
+   
+    
+  </div>,
+  document.getElementById("root")
+);
+
 
 
 
