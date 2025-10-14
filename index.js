@@ -11,6 +11,10 @@ ReactDOM.render(
   <div>
     <p>Created By {name}</p>
     <p>Copyright {year}</p>
+</div>,
+  document.getElementById("root")
+);
+//mistakes here sr
 
 
 
