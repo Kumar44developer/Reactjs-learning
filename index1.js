@@ -9,3 +9,5 @@ ReactDOM.render(
     <p>Created By {name}</p>
     <p>Copyright {year}</p>
   </div>,
+  document.getElementById("root")
+);
