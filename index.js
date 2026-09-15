@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 // importReactDOMfrom"rect-dom";
 const name = "Angela";
 const currentDate = new Date();
-const year = currentDate.getMonth();
+const year = currentDate.getFullYear();
 ReactDOM.render(
   <div>
     <p>Created By {name}</p>
