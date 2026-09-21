@@ -131,12 +131,12 @@ Edit a script, save, and refresh the browser to see your change instantly.
 
 ```text
 Reactjs-learning/
-├── index.html      # JSX playground page
-├── script.js       # Example rendered by index.html
-├── index1.html     # Footer example page
-├── index1.js       # Example rendered by index1.html
-├── index.js        # Standalone reference snippet
-├── style.css       # Card layout and typography
+├── index.html     
+├── script.js       
+├── index1.html    
+├── index1.js      
+├── index.js      
+├── style.css      
 ├── LICENSE
 └── README.md
 ```
